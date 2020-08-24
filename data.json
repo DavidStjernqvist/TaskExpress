@@ -1,0 +1,24 @@
+{
+    "resturants": [
+        {"name": "McDonalds",
+            "location": "Sveavägen 71, 113 50 Stockholm",
+            "description": "It begins with delivering a great restaurant experience every time. Our owner/operators, suppliers and employees work together to meet customer needs in uniquely McDonalds ways.",
+            "image": "mcdonalds.jpg",
+            "averageRating": 3.3
+        },
+        {
+            "name": "Meno Male Vasastan",
+            "location": "Roslagsatan 15, 113 55 Stockholm",
+            "description": "Italian neapolitan pizza. One of the best pizzas in Stocholm.",
+            "image": "menomale.jpg",
+            "averageRating": 4.5
+        },
+        {
+            "name": "Glashuset Kajplats 18",
+            "location": "Kajplats 18, Strandvägen, 114 56 Stockholm",
+            "description": "Selected as the best resturant in Stockholm at tripadvisor.",
+            "image": "glashuset.jpg",
+            "averageRating": 4.5
+        }   
+    ]    
+}

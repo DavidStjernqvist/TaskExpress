@@ -1,0 +1,15 @@
+.checked {
+    color:orange;
+}
+.profileImage{
+    width: 20%;
+    height: 20%;
+    border-radius: 50%;
+}
+.index{
+    text-align: center;
+    margin: 10px;
+}
+.content{
+    background-color: beige;
+}
